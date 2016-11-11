@@ -1,0 +1,305 @@
+Sentence,Subject,Object,Related (Yes=1   No=0)
+a vegan diet has documented clinical efficacy in rheumatoid arthritis.,vegan diet,clinical efficacy,1
+a vegan diet has documented clinical efficacy in rheumatoid arthritis.,vegan diet,rheumatoid arthritis,1
+a vegan diet has documented clinical efficacy in rheumatoid arthritis.,vegan diet,clinical efficacy in rheumatoid arthritis,1
+"Acting on hepatocytes, glucagon promotes (and insulin inhibits) cAMP-dependent mechanisms that down-regulate lipogenic enzymes and cholesterol synthesis, while up-regulating hepatic LDL receptors and production of the IGF-I antagonist IGFBP-1.",glucagon,camp-dependent mechanisms,1
+"Acting on hepatocytes, glucagon promotes (and insulin inhibits) cAMP-dependent mechanisms that down-regulate lipogenic enzymes and cholesterol synthesis, while up-regulating hepatic LDL receptors and production of the IGF-I antagonist IGFBP-1.",insulin,camp-dependent mechanisms,1
+"Acting on hepatocytes, glucagon promotes (and insulin inhibits) cAMP-dependent mechanisms that down-regulate lipogenic enzymes and cholesterol synthesis, while up-regulating hepatic LDL receptors and production of the IGF-I antagonist IGFBP-1.",glucagon,hepatocytes,1
+"Acting on hepatocytes, glucagon promotes (and insulin inhibits) cAMP-dependent mechanisms that down-regulate lipogenic enzymes and cholesterol synthesis, while up-regulating hepatic LDL receptors and production of the IGF-I antagonist IGFBP-1.",insulin,hepatocytes,1
+"Acting on hepatocytes, glucagon promotes (and insulin inhibits) cAMP-dependent mechanisms that down-regulate lipogenic enzymes and cholesterol synthesis, while up-regulating hepatic LDL receptors and production of the IGF-I antagonist IGFBP-1.",camp-dependent mechanisms,lipogenic enzymes,1
+"Acting on hepatocytes, glucagon promotes (and insulin inhibits) cAMP-dependent mechanisms that down-regulate lipogenic enzymes and cholesterol synthesis, while up-regulating hepatic LDL receptors and production of the IGF-I antagonist IGFBP-1.",camp-dependent mechanisms,cholesterol synthesis,1
+"Acting on hepatocytes, glucagon promotes (and insulin inhibits) cAMP-dependent mechanisms that down-regulate lipogenic enzymes and cholesterol synthesis, while up-regulating hepatic LDL receptors and production of the IGF-I antagonist IGFBP-1.",camp-dependent mechanisms,hepatic ldl receptors,1
+"Acting on hepatocytes, glucagon promotes (and insulin inhibits) cAMP-dependent mechanisms that down-regulate lipogenic enzymes and cholesterol synthesis, while up-regulating hepatic LDL receptors and production of the IGF-I antagonist IGFBP-1.",camp-dependent mechanisms,IGF-I antagonist,1
+"Acting on hepatocytes, glucagon promotes (and insulin inhibits) cAMP-dependent mechanisms that down-regulate lipogenic enzymes and cholesterol synthesis, while up-regulating hepatic LDL receptors and production of the IGF-I antagonist IGFBP-1.",camp-dependent mechanisms,igfbp-1,1
+"Additionally, the relatively low essential amino acid content of some vegan diets may decrease hepatic IGF-I synthesis.",essential amino acid,vegan diets,1
+"Additionally, the relatively low essential amino acid content of some vegan diets may decrease hepatic IGF-I synthesis.",low essential amino acid content,hepatic IGF-I synthesis,1
+Amino acids modulate the secretion of both insulin and glucagon.,amino acids,secretion of insulin,1
+Amino acids modulate the secretion of both insulin and glucagon.,amino acids,glucagon,1
+An unnecessarily high intake of essential amino acids--either in the absolute sense or relative to total dietary protein--may prove to be as grave a risk factor for 'Western' degenerative diseases as is excessive fat intake.,essential amino acids,dietary protein,1
+An unnecessarily high intake of essential amino acids--either in the absolute sense or relative to total dietary protein--may prove to be as grave a risk factor for 'Western' degenerative diseases as is excessive fat intake.,high intake of essential amino acids,risk factor for Western degenerative diseases,1
+An unnecessarily high intake of essential amino acids--either in the absolute sense or relative to total dietary protein--may prove to be as grave a risk factor for 'Western' degenerative diseases as is excessive fat intake.,excessive fat intake,Western degenerative diseases,1
+"By altering the glucagon/insulin balance, it is conceivable that supplemental intakes of key non-essential amino acids could enable omnivores to enjoy some of the health advantages of a vegan diet.",vegan diet,health advantages,1
+"By altering the glucagon/insulin balance, it is conceivable that supplemental intakes of key non-essential amino acids could enable omnivores to enjoy some of the health advantages of a vegan diet.",key non-essential amino acids,glucagon/insulin balance,1
+"By altering the glucagon/insulin balance, it is conceivable that supplemental intakes of key non-essential amino acids could enable omnivores to enjoy some of the health advantages of a vegan diet.",key non-essential amino acids,health advantages,1
+"By altering the glucagon/insulin balance, it is conceivable that supplemental intakes of key non-essential amino acids could enable omnivores to enjoy some of the health advantages of a vegan diet.",non-essential amino acids,vegan diet,1
+"conversely, the high IGF-I activity associated with heavy ingestion of animal products may be largely responsible for the epidemic of Western cancers in wealthy societies.",heavy ingestion of animal products,Western cancers,1
+"conversely, the high IGF-I activity associated with heavy ingestion of animal products may be largely responsible for the epidemic of Western cancers in wealthy societies.",high IGF-I activity,Western cancers,1
+"In fact, vegans tend to have low serum lipids, lean physiques, shorter stature, later puberty, and decreased risk for certain prominent Western cancers.",vegans,low serum lipids,1
+"In fact, vegans tend to have low serum lipids, lean physiques, shorter stature, later puberty, and decreased risk for certain prominent Western cancers.",vegans,lean physiques,1
+"In fact, vegans tend to have low serum lipids, lean physiques, shorter stature, later puberty, and decreased risk for certain prominent Western cancers.",vegans,shorter stature,1
+"In fact, vegans tend to have low serum lipids, lean physiques, shorter stature, later puberty, and decreased risk for certain prominent Western cancers.",vegans,later puberty,1
+"In fact, vegans tend to have low serum lipids, lean physiques, shorter stature, later puberty, and decreased risk for certain prominent Western cancers.",vegans,risk of Western cancers,1
+Increased phytochemical intake is also likely to contribute to the reduction of cancer risk in vegans.,phytochemical,cancer risk,1
+"Low-fat vegan diets may be especially protective in regard to cancers linked to insulin resistance--namely, breast and colon cancer--as well as prostate cancer.",low-fat vegan diets,breast cancer,1
+"Low-fat vegan diets may be especially protective in regard to cancers linked to insulin resistance--namely, breast and colon cancer--as well as prostate cancer.",low-fat vegan diets,colon cancer,1
+"Low-fat vegan diets may be especially protective in regard to cancers linked to insulin resistance--namely, breast and colon cancer--as well as prostate cancer.",low-fat vegan diets,prostate cancer,1
+"Low-fat vegan diets may be especially protective in regard to cancers linked to insulin resistance--namely, breast and colon cancer--as well as prostate cancer.",insulin resistance,breast cancer,1
+"Low-fat vegan diets may be especially protective in regard to cancers linked to insulin resistance--namely, breast and colon cancer--as well as prostate cancer.",insulin resistance,colon cancer,1
+"Low-fat vegan diets may be especially protective in regard to cancers linked to insulin resistance--namely, breast and colon cancer--as well as prostate cancer.",insulin resistance,prostate cancer,1
+Regression of coronary stenoses has been documented during low-fat vegan diets coupled with exercise training.,low-fat vegan diets,regression of coronary stenoses,1
+Regression of coronary stenoses has been documented during low-fat vegan diets coupled with exercise training.,exercise training,regression of coronary stenoses,1
+"Risk of many other degenerative disorders may be decreased in vegans, although reduced growth factor activity may be responsible for an increased risk of hemorrhagic stroke.",vegans,degenerative disorders,1
+"Risk of many other degenerative disorders may be decreased in vegans, although reduced growth factor activity may be responsible for an increased risk of hemorrhagic stroke.",reduced growth factor activity,hemorrhagic stroke,1
+"Soy protein, as well as many other vegan proteins, are higher in non-essential amino acids than most animal-derived food proteins, and as a result should preferentially favor glucagon production.",soy protein,vegan proteins,1
+"Soy protein, as well as many other vegan proteins, are higher in non-essential amino acids than most animal-derived food proteins, and as a result should preferentially favor glucagon production.",soy protein,non-essential amino acids,1
+"Soy protein, as well as many other vegan proteins, are higher in non-essential amino acids than most animal-derived food proteins, and as a result should preferentially favor glucagon production.",vegan proteins,non-essential amino acids,1
+"Soy protein, as well as many other vegan proteins, are higher in non-essential amino acids than most animal-derived food proteins, and as a result should preferentially favor glucagon production.",soy protein,glucagon production,1
+"Soy protein, as well as many other vegan proteins, are higher in non-essential amino acids than most animal-derived food proteins, and as a result should preferentially favor glucagon production.",vegan proteins,glucagon production,1
+"Soy protein, as well as many other vegan proteins, are higher in non-essential amino acids than most animal-derived food proteins, and as a result should preferentially favor glucagon production.",non-essential amino acids,glucagon production,1
+"Soy protein, as well as many other vegan proteins, are higher in non-essential amino acids than most animal-derived food proteins, and as a result should preferentially favor glucagon production.",non-essential amino acids,glucagon production,1
+"Soy protein, as well as many other vegan proteins, are higher in non-essential amino acids than most animal-derived food proteins, and as a result should preferentially favor glucagon production.",animal-derived food proteins,non-essential amino acids,1
+such regimens also tend to markedly improve diabetic control and lower elevated blood pressure.,low-fat vegan diets,diabetic control,1
+such regimens also tend to markedly improve diabetic control and lower elevated blood pressure.,exercise training,lower elevated blood pressure,1
+the composition of dietary protein therefore has the potential to influence the balance of glucagon and insulin activity.,dietary protein,insulin activity,1
+the composition of dietary protein therefore has the potential to influence the balance of glucagon and insulin activity.,dietary protein,balance of glucagon,1
+"The insulin-sensitizing properties of many vegan diets--high in fiber, low in saturated fat--should amplify these effects by down-regulating insulin secretion.",insulin-sensitizing properties,vegan diets high in fiber,1
+"The insulin-sensitizing properties of many vegan diets--high in fiber, low in saturated fat--should amplify these effects by down-regulating insulin secretion.",insulin-sensitizing properties,vegan diets low in saturated fat,1
+"The insulin-sensitizing properties of many vegan diets--high in fiber, low in saturated fat--should amplify these effects by down-regulating insulin secretion.",insulin-sensitizing properties,insulin secretion,1
+"Thus, diets featuring vegan proteins can be expected to lower elevated serum lipid levels, promote weight loss, and decrease circulating IGF-I activity.",vegan proteins,elevated serum lipid levels,1
+"Thus, diets featuring vegan proteins can be expected to lower elevated serum lipid levels, promote weight loss, and decrease circulating IGF-I activity.",vegan proteins,weight loss,1
+"Thus, diets featuring vegan proteins can be expected to lower elevated serum lipid levels, promote weight loss, and decrease circulating IGF-I activity.",vegan proteins,circulating IGF-I activity,1
+Neonatal malnutrition defined by birth weight (BW) is a risk factor for obesity and cardio-metabolic diseases in adults.,BW,neonatal malnutrition,1
+Neonatal malnutrition defined by birth weight (BW) is a risk factor for obesity and cardio-metabolic diseases in adults.,neonatal malnutrition,obesity,1
+Neonatal malnutrition defined by birth weight (BW) is a risk factor for obesity and cardio-metabolic diseases in adults.,neonatal malnutrition,cardio-metabolic diseases in adults,1
+Neonatal ponderal index (NPI) may have better diagnostic value than BW to establish nutritional status.,NPI,nutritional status,1
+"In particular, nutrition seems to be at the core of obesity in children.",nutrition,core of obesity in children,1
+"Nutrition plays such a pivotal role that it may be considered a valuable treatment strategy for multiple pediatric conditions, including celiac disease, Crohn's disease, short bowel syndrome, galactosemia, congenital deficiency of urea cycle enzymes.",nutrition,celiac disease,1
+"Nutrition plays such a pivotal role that it may be considered a valuable treatment strategy for multiple pediatric conditions, including celiac disease, Crohn's disease, short bowel syndrome, galactosemia, congenital deficiency of urea cycle enzymes.",nutrition,pediatric conditions,1
+"Nutrition plays such a pivotal role that it may be considered a valuable treatment strategy for multiple pediatric conditions, including celiac disease, Crohn's disease, short bowel syndrome, galactosemia, congenital deficiency of urea cycle enzymes.",nutrition,crohn's disease,1
+"Nutrition plays such a pivotal role that it may be considered a valuable treatment strategy for multiple pediatric conditions, including celiac disease, Crohn's disease, short bowel syndrome, galactosemia, congenital deficiency of urea cycle enzymes.",nutrition,short bowel syndrome,1
+"Nutrition plays such a pivotal role that it may be considered a valuable treatment strategy for multiple pediatric conditions, including celiac disease, Crohn's disease, short bowel syndrome, galactosemia, congenital deficiency of urea cycle enzymes.",nutrition,galactosemia,1
+"Nutrition plays such a pivotal role that it may be considered a valuable treatment strategy for multiple pediatric conditions, including celiac disease, Crohn's disease, short bowel syndrome, galactosemia, congenital deficiency of urea cycle enzymes.",nutrition,congenital deficiency of urea cycle enzymes,1
+"Overweight/obesity is a growing epidemic in the Western world and a leading cause of morbidity and mortality, mainly from cardiovascular disease.",overweight,epidemic in the Western world,1
+"Overweight/obesity is a growing epidemic in the Western world and a leading cause of morbidity and mortality, mainly from cardiovascular disease.",overweight,morbidity,1
+"Overweight/obesity is a growing epidemic in the Western world and a leading cause of morbidity and mortality, mainly from cardiovascular disease.",overweight,mortality,1
+"Overweight/obesity is a growing epidemic in the Western world and a leading cause of morbidity and mortality, mainly from cardiovascular disease.",overweight,cardiovascular disease,1
+"Overweight/obesity is a growing epidemic in the Western world and a leading cause of morbidity and mortality, mainly from cardiovascular disease.",obesity,epidemic in the Western world,1
+"Overweight/obesity is a growing epidemic in the Western world and a leading cause of morbidity and mortality, mainly from cardiovascular disease.",obesity,morbidity,1
+"Overweight/obesity is a growing epidemic in the Western world and a leading cause of morbidity and mortality, mainly from cardiovascular disease.",obesity,mortality,1
+"Overweight/obesity is a growing epidemic in the Western world and a leading cause of morbidity and mortality, mainly from cardiovascular disease.",obesity,cardiovascular disease,1
+"Overweight/obesity is a growing epidemic in the Western world and a leading cause of morbidity and mortality, mainly from cardiovascular disease.",cardiovascular disease,mortality,1
+"Overweight/obesity is a growing epidemic in the Western world and a leading cause of morbidity and mortality, mainly from cardiovascular disease.",cardiovascular disease,morbidity,1
+"Public health programs of primary prevention should be stimulated and recommended, with the aim of promoting diet and lifestyle changes in the general population.",public health programs,diet changes,1
+"Public health programs of primary prevention should be stimulated and recommended, with the aim of promoting diet and lifestyle changes in the general population.",public health programs,lifestyle changes,1
+"Obesity and overweight, often present in FM patients, are related to the severity of FM worsening the quality of life in terms of higher pain, fatigue, worsened sleep quality and higher incidence of mood disorders.",obesity,FM patients,1
+"Obesity and overweight, often present in FM patients, are related to the severity of FM worsening the quality of life in terms of higher pain, fatigue, worsened sleep quality and higher incidence of mood disorders.",obesity,quality of life,1
+"Obesity and overweight, often present in FM patients, are related to the severity of FM worsening the quality of life in terms of higher pain, fatigue, worsened sleep quality and higher incidence of mood disorders.",obesity,higher pain,1
+"Obesity and overweight, often present in FM patients, are related to the severity of FM worsening the quality of life in terms of higher pain, fatigue, worsened sleep quality and higher incidence of mood disorders.",obesity,fatigue,1
+"Obesity and overweight, often present in FM patients, are related to the severity of FM worsening the quality of life in terms of higher pain, fatigue, worsened sleep quality and higher incidence of mood disorders.",obesity,sleep quality,1
+"Obesity and overweight, often present in FM patients, are related to the severity of FM worsening the quality of life in terms of higher pain, fatigue, worsened sleep quality and higher incidence of mood disorders.",obesity,mood disorders,1
+"Obesity and overweight, often present in FM patients, are related to the severity of FM worsening the quality of life in terms of higher pain, fatigue, worsened sleep quality and higher incidence of mood disorders.",overweight,FM patients,1
+"Obesity and overweight, often present in FM patients, are related to the severity of FM worsening the quality of life in terms of higher pain, fatigue, worsened sleep quality and higher incidence of mood disorders.",overweight,quality of life,1
+"Obesity and overweight, often present in FM patients, are related to the severity of FM worsening the quality of life in terms of higher pain, fatigue, worsened sleep quality and higher incidence of mood disorders.",overweight,higher pain,1
+"Obesity and overweight, often present in FM patients, are related to the severity of FM worsening the quality of life in terms of higher pain, fatigue, worsened sleep quality and higher incidence of mood disorders.",overweight,fatigue,1
+"Obesity and overweight, often present in FM patients, are related to the severity of FM worsening the quality of life in terms of higher pain, fatigue, worsened sleep quality and higher incidence of mood disorders.",overweight,sleep quality,1
+"Obesity and overweight, often present in FM patients, are related to the severity of FM worsening the quality of life in terms of higher pain, fatigue, worsened sleep quality and higher incidence of mood disorders.",overweight,mood disorders,1
+"Among non-pharmacological treatment, nutrition is a promising tool for FM patients.",nutrition,non-pharmacological treatment,1
+"Among non-pharmacological treatment, nutrition is a promising tool for FM patients.",nutrition,fm patients,1
+Different medical treatments are used to treat fibromyalgia and the recent guidelines suggest that the optimal treatment consists in a multidisciplinary approach with a combination of pharmacological and non-pharmacological treatment modalities.,non-pharmacological treatment,fibromyalgia,1
+Different medical treatments are used to treat fibromyalgia and the recent guidelines suggest that the optimal treatment consists in a multidisciplinary approach with a combination of pharmacological and non-pharmacological treatment modalities.,pharmacological treatment,fibromyalgia,1
+"Fibromyalgia syndrome (FM) is a chronic, generalised pain condition usually accompanied by several associated symptoms, such as fatigue, sleep disturbance, headache, irritable bowel syndrome and mood disorders.",fibromyalgia syndrome (FM),chronic generalised pain condition,1
+"Fibromyalgia syndrome (FM) is a chronic, generalised pain condition usually accompanied by several associated symptoms, such as fatigue, sleep disturbance, headache, irritable bowel syndrome and mood disorders.",fibromyalgia syndrome (FM),fatigue,1
+"Fibromyalgia syndrome (FM) is a chronic, generalised pain condition usually accompanied by several associated symptoms, such as fatigue, sleep disturbance, headache, irritable bowel syndrome and mood disorders.",fibromyalgia syndrome (FM),sleep disturbance,1
+"Fibromyalgia syndrome (FM) is a chronic, generalised pain condition usually accompanied by several associated symptoms, such as fatigue, sleep disturbance, headache, irritable bowel syndrome and mood disorders.",fibromyalgia syndrome (FM),headache,1
+"Fibromyalgia syndrome (FM) is a chronic, generalised pain condition usually accompanied by several associated symptoms, such as fatigue, sleep disturbance, headache, irritable bowel syndrome and mood disorders.",fibromyalgia syndrome (FM),irritable bowel syndrome,1
+"Fibromyalgia syndrome (FM) is a chronic, generalised pain condition usually accompanied by several associated symptoms, such as fatigue, sleep disturbance, headache, irritable bowel syndrome and mood disorders.",fibromyalgia syndrome (FM),mood disorders,1
+"In summary, this review reveals the potential benefit of specific dietary interventions as non-pharmacological tools as part of a multidisciplinary treatment for FM patients.",specific dietary interventions,multidisciplinary treatment for FM patients,1
+"In summary, this review reveals the potential benefit of specific dietary interventions as non-pharmacological tools as part of a multidisciplinary treatment for FM patients.",specific dietary interventions,non-pharmacological tools ,1
+Non-coeliac gluten sensitivity is increasingly recognised as a frequent condition with similar manifestations which overlap with those of FM.,non-coeliac gluten sensitivity,FM,1
+Nutritional deficiencies have been described in FM patients and the benefits of specific diet and nutritional supplementation are shown.,nutritional deficiencies,fm patients,1
+Nutritional deficiencies have been described in FM patients and the benefits of specific diet and nutritional supplementation are shown.,specific diet,fm patients,1
+Nutritional deficiencies have been described in FM patients and the benefits of specific diet and nutritional supplementation are shown.,nutritional supplementation,fm patients,1
+The elimination of gluten from the diet of FM patients is recently becoming a potential dietary intervention for clinical improvement.,elimination of gluten, dietary intervenion for clinical improvement,1
+The incidence of cancer was higher in patients with colorectal adenoma and metabolic syndrome.,colorectal adenoma,cancer,1
+The incidence of cancer was higher in patients with colorectal adenoma and metabolic syndrome.,metabolic syndrome,cancer,1
+Associated liver steatosis is a significant risk factor for colorectal cancer.,liver steatosis,colorectal cancer,1
+Metabolic syndrome has been identified as a risk factor for colorectal cancer and adenoma.,metabolic syndrome,colorectal cancer,1
+Metabolic syndrome has been identified as a risk factor for colorectal cancer and adenoma.,metabolic syndrome,adenoma,1
+The prevalence of colorectal adenoma was twice as high in patients with metabolic syndrome.,metabolic syndrome,colorectal cancer,1
+"Although rapamycin was originally developed as an inhibitor of T cell proliferation for preventing organ transplant rejection, its molecular target, mTOR, has been subsequently identified as a central regulator of metabolic cues that drive lineage specification in the immune system.",rapamycin,t cell proliferation,1
+"Although rapamycin was originally developed as an inhibitor of T cell proliferation for preventing organ transplant rejection, its molecular target, mTOR, has been subsequently identified as a central regulator of metabolic cues that drive lineage specification in the immune system.",rapamycin,organ transplant rejection,1
+"Although rapamycin was originally developed as an inhibitor of T cell proliferation for preventing organ transplant rejection, its molecular target, mTOR, has been subsequently identified as a central regulator of metabolic cues that drive lineage specification in the immune system.",molecular target (mtor),rapamycin,1
+"Although rapamycin was originally developed as an inhibitor of T cell proliferation for preventing organ transplant rejection, its molecular target, mTOR, has been subsequently identified as a central regulator of metabolic cues that drive lineage specification in the immune system.",molecular target,metabolic cues,1
+"Although rapamycin was originally developed as an inhibitor of T cell proliferation for preventing organ transplant rejection, its molecular target, mTOR, has been subsequently identified as a central regulator of metabolic cues that drive lineage specification in the immune system.",metabolic cues,lineage specification,1
+"Owing to oxidative stress, the activation of mTORC1 has emerged as a central pathway for the pathogenesis of systemic lupus erythematosus and other autoimmune diseases.",oxidative stress,activation of mtorc1,1
+"Owing to oxidative stress, the activation of mTORC1 has emerged as a central pathway for the pathogenesis of systemic lupus erythematosus and other autoimmune diseases.",activation of mtorc1,pathogenesis of systemic lupus erythematosus,1
+"Paradoxically, mTORC1 has also been identified as a mediator of the Warburg effect that allows cell survival under hypoxia.",activation of mtorc1,warburg effect,1
+"Paradoxically, mTORC1 has also been identified as a mediator of the Warburg effect that allows cell survival under hypoxia.",warburg effect,cell survival under hypoxia,1
+Rapamycin and new classes of mTOR inhibitors are being developed to block not only transplant rejection and autoimmunity but also to treat obesity and various forms of cancer.,rapamycin,transplant rejection,1
+Rapamycin and new classes of mTOR inhibitors are being developed to block not only transplant rejection and autoimmunity but also to treat obesity and various forms of cancer.,new classes of mtor inhibitors,transplant rejection,1
+Rapamycin and new classes of mTOR inhibitors are being developed to block not only transplant rejection and autoimmunity but also to treat obesity and various forms of cancer.,rapamycin,autoimmunity,1
+Rapamycin and new classes of mTOR inhibitors are being developed to block not only transplant rejection and autoimmunity but also to treat obesity and various forms of cancer.,new classes of mtor inhibitors,autoimmunity,1
+Rapamycin and new classes of mTOR inhibitors are being developed to block not only transplant rejection and autoimmunity but also to treat obesity and various forms of cancer.,rapamycin,obesity,1
+Rapamycin and new classes of mTOR inhibitors are being developed to block not only transplant rejection and autoimmunity but also to treat obesity and various forms of cancer.,new classes of mtor inhibitors,obesity,1
+Rapamycin and new classes of mTOR inhibitors are being developed to block not only transplant rejection and autoimmunity but also to treat obesity and various forms of cancer.,rapamycin,cancer,1
+Rapamycin and new classes of mTOR inhibitors are being developed to block not only transplant rejection and autoimmunity but also to treat obesity and various forms of cancer.,new classes of mtor inhibitors,cancer,1
+"The mechanistic target of rapamycin (mTOR) is a ubiquitous serine/threonine kinase, which plays pivotal roles in integrating growth signals on a cellular level.",mechanistic target of rapamycin (mtor),ubiquitous serine kinase,1
+"The mechanistic target of rapamycin (mTOR) is a ubiquitous serine/threonine kinase, which plays pivotal roles in integrating growth signals on a cellular level.",mechanistic target of rapamycin (mtor),ubiquitous threonine kinase,1
+"The mechanistic target of rapamycin (mTOR) is a ubiquitous serine/threonine kinase, which plays pivotal roles in integrating growth signals on a cellular level.",mechanistic target of rapamycin (mtor),growth signals on a celular level,1
+"Through preventing these diseases, personalized mTOR blockade holds promise to extend life span.",personalized mTOR blockade,life span,1
+"To support proliferation and survival under stress, two interacting complexes that harbor mTOR, mTORC1 and mTORC2, promote the transcription of genes involved in carbohydrate metabolism and lipogenesis, enhance protein translation, and inhibit autophagy.","two interacting complexes that harbor mTOR, mTORC1 and mTORC2",proliferation,1
+"To support proliferation and survival under stress, two interacting complexes that harbor mTOR, mTORC1 and mTORC2, promote the transcription of genes involved in carbohydrate metabolism and lipogenesis, enhance protein translation, and inhibit autophagy.","two interacting complexes that harbor mTOR, mTORC1 and mTORC2",survival under stress,1
+"To support proliferation and survival under stress, two interacting complexes that harbor mTOR, mTORC1 and mTORC2, promote the transcription of genes involved in carbohydrate metabolism and lipogenesis, enhance protein translation, and inhibit autophagy.","two interacting complexes that harbor mTOR, mTORC1 and mTORC2",transcription of genes,1
+"To support proliferation and survival under stress, two interacting complexes that harbor mTOR, mTORC1 and mTORC2, promote the transcription of genes involved in carbohydrate metabolism and lipogenesis, enhance protein translation, and inhibit autophagy.",transcription of genes,carbohydrate metabolism,1
+"To support proliferation and survival under stress, two interacting complexes that harbor mTOR, mTORC1 and mTORC2, promote the transcription of genes involved in carbohydrate metabolism and lipogenesis, enhance protein translation, and inhibit autophagy.",transcription of genes,lipogenesis,1
+"To support proliferation and survival under stress, two interacting complexes that harbor mTOR, mTORC1 and mTORC2, promote the transcription of genes involved in carbohydrate metabolism and lipogenesis, enhance protein translation, and inhibit autophagy.","two interacting complexes that harbor mTOR, mTORC1 and mTORC2",protein translation,1
+"To support proliferation and survival under stress, two interacting complexes that harbor mTOR, mTORC1 and mTORC2, promote the transcription of genes involved in carbohydrate metabolism and lipogenesis, enhance protein translation, and inhibit autophagy.","two interacting complexes that harbor mTOR, mTORC1 and mTORC2",autophagy,1
+Advanced glycation end-products (AGE) are reactive metabolites produced as a by-product of sugar metabolism.,advanced glycation end-products (AGE),reactive metabolites,1
+Advanced glycation end-products (AGE) are reactive metabolites produced as a by-product of sugar metabolism.,advanced glycation end-products (AGE),by-product of sugar metabolism,1
+"Critically, AGE accumulation is also directly affected by our lifestyle choices and shows a race-specific, tumor-dependent pattern of accumulation in cancer patients.",AGE accumulation,lifestyle choices,1
+"Critically, AGE accumulation is also directly affected by our lifestyle choices and shows a race-specific, tumor-dependent pattern of accumulation in cancer patients.",AGE accumulation,tumor-dependent pattern of accumulation,1
+"Failure to remove these highly reactive metabolites can lead to protein damage, aberrant cell signaling, increased stress responses, and decreased genetic fidelity.",reactive metabolites,protein damage,1
+"Failure to remove these highly reactive metabolites can lead to protein damage, aberrant cell signaling, increased stress responses, and decreased genetic fidelity.",reactive metabolites,aberrant cell signaling,1
+"Failure to remove these highly reactive metabolites can lead to protein damage, aberrant cell signaling, increased stress responses, and decreased genetic fidelity.",reactive metabolites,stress responses,1
+"Failure to remove these highly reactive metabolites can lead to protein damage, aberrant cell signaling, increased stress responses, and decreased genetic fidelity.",reactive metabolites,genetic fidelity,1
+"Given the potential benefits of lifestyle changes and the potential biologic role of AGEs in promoting cancer, opportunities exist for collaborations affecting basic, translational, epidemiologic, and cancer prevention initiatives.",AGEs,cancer,1
+"The frequency of MS was 36 and 39% according to the IDF and Cook criteria, respectively.",frequency,criteria,0
+"The frequency of MS was 36 and 39% according to the IDF and Cook criteria, respectively.",MS,criteria,0
+"The frequency of MS was 36 and 39% according to the IDF and Cook criteria, respectively.",frequency,Cook,0
+"The frequency of MS was 36 and 39% according to the IDF and Cook criteria, respectively.",frequency,criteria,0
+"The frequency of MS was 36 and 39% according to the IDF and Cook criteria, respectively.",MS,Cook,0
+"The frequency of MS was 36 and 39% according to the IDF and Cook criteria, respectively.",MS,criteria,0
+The proportion of children with neonatal malnutrition exceeded 20%.,proportion,0.2,0
+The proportion of children with neonatal malnutrition exceeded 20%.,children,0.2,0
+The proportion of children with neonatal malnutrition exceeded 20%.,malnutrition,0.2,0
+"To determine the effect of neonatal nutritional status, established by the three NPI curves available in Chile, on the risk of Metabolic Syndrome (MS) in obese school children.",nutritional status,Metabolic Syndrome,0
+"To determine the effect of neonatal nutritional status, established by the three NPI curves available in Chile, on the risk of Metabolic Syndrome (MS) in obese school children.",neonatal,Metabolic Syndrome,0
+"To determine the effect of neonatal nutritional status, established by the three NPI curves available in Chile, on the risk of Metabolic Syndrome (MS) in obese school children.",effect,Metabolic Syndrome,0
+Doctors are going to play a major role as they are being called on to adapt their practices to confront it.,doctors,adapt,0
+Doctors are going to play a major role as they are being called on to adapt their practices to confront it.,doctors,practices,0
+Doctors are going to play a major role as they are being called on to adapt their practices to confront it.,doctors,major,0
+Doctors are going to play a major role as they are being called on to adapt their practices to confront it.,doctors,role,0
+The aim of this review is to update the present knowledge about fibromyalgia and nutrition by means of a systematic search performed on Medline from January 2000 to December 2014.,search,Medline,0
+The aim of this review is to update the present knowledge about fibromyalgia and nutrition by means of a systematic search performed on Medline from January 2000 to December 2014.,aim,present,0
+The aim of this review is to update the present knowledge about fibromyalgia and nutrition by means of a systematic search performed on Medline from January 2000 to December 2014.,aim,knowledge,0
+The aim of this review is to update the present knowledge about fibromyalgia and nutrition by means of a systematic search performed on Medline from January 2000 to December 2014.,aim,fibromyalgia,0
+The aim of this review is to update the present knowledge about fibromyalgia and nutrition by means of a systematic search performed on Medline from January 2000 to December 2014.,aim,present,0
+The aim of this review is to update the present knowledge about fibromyalgia and nutrition by means of a systematic search performed on Medline from January 2000 to December 2014.,aim,knowledge,0
+The aim of this review is to update the present knowledge about fibromyalgia and nutrition by means of a systematic search performed on Medline from January 2000 to December 2014.,aim,nutrition,0
+The aim of this review is to update the present knowledge about fibromyalgia and nutrition by means of a systematic search performed on Medline from January 2000 to December 2014.,aim,update,0
+The aim of this review is to update the present knowledge about fibromyalgia and nutrition by means of a systematic search performed on Medline from January 2000 to December 2014.,aim,present,0
+The aim of this review is to update the present knowledge about fibromyalgia and nutrition by means of a systematic search performed on Medline from January 2000 to December 2014.,aim,fibromyalgia,0
+The aim of this review is to update the present knowledge about fibromyalgia and nutrition by means of a systematic search performed on Medline from January 2000 to December 2014.,aim,nutrition,0
+The aim of this review is to update the present knowledge about fibromyalgia and nutrition by means of a systematic search performed on Medline from January 2000 to December 2014.,review,update,0
+The aim of this review is to update the present knowledge about fibromyalgia and nutrition by means of a systematic search performed on Medline from January 2000 to December 2014.,review,present,0
+The aim of this review is to update the present knowledge about fibromyalgia and nutrition by means of a systematic search performed on Medline from January 2000 to December 2014.,review,fibromyalgia,0
+The aim of this review is to update the present knowledge about fibromyalgia and nutrition by means of a systematic search performed on Medline from January 2000 to December 2014.,review,nutrition,0
+"Another 1,500 patients undergoing screening colonoscopy were prospectively analyzed: 134 patients with metabolic syndrome and colorectal adenoma were compared against a group of 108 patients with colorectal adenoma without metabolic syndrome to assess the prevalence of cancer.",metabolic syndrome,colorectal adenoma,0
+"Another 1,500 patients undergoing screening colonoscopy were prospectively analyzed: 134 patients with metabolic syndrome and colorectal adenoma were compared against a group of 108 patients with colorectal adenoma without metabolic syndrome to assess the prevalence of cancer.",metabolic syndrome,metabolic syndrome,0
+"Another 1,500 patients undergoing screening colonoscopy were prospectively analyzed: 134 patients with metabolic syndrome and colorectal adenoma were compared against a group of 108 patients with colorectal adenoma without metabolic syndrome to assess the prevalence of cancer.",metabolic syndrome,patients,0
+"Another 1,500 patients undergoing screening colonoscopy were prospectively analyzed: 134 patients with metabolic syndrome and colorectal adenoma were compared against a group of 108 patients with colorectal adenoma without metabolic syndrome to assess the prevalence of cancer.",colorectal adenoma,colorectal adenoma,0
+"Another 1,500 patients undergoing screening colonoscopy were prospectively analyzed: 134 patients with metabolic syndrome and colorectal adenoma were compared against a group of 108 patients with colorectal adenoma without metabolic syndrome to assess the prevalence of cancer.",colorectal adenoma,metabolic syndrome,0
+"Another 1,500 patients undergoing screening colonoscopy were prospectively analyzed: 134 patients with metabolic syndrome and colorectal adenoma were compared against a group of 108 patients with colorectal adenoma without metabolic syndrome to assess the prevalence of cancer.",colorectal adenoma,patients,0
+"Another 1,500 patients undergoing screening colonoscopy were prospectively analyzed: 134 patients with metabolic syndrome and colorectal adenoma were compared against a group of 108 patients with colorectal adenoma without metabolic syndrome to assess the prevalence of cancer.",patients,colorectal adenoma,0
+"Another 1,500 patients undergoing screening colonoscopy were prospectively analyzed: 134 patients with metabolic syndrome and colorectal adenoma were compared against a group of 108 patients with colorectal adenoma without metabolic syndrome to assess the prevalence of cancer.",patients,metabolic syndrome,0
+"Another 1,500 patients undergoing screening colonoscopy were prospectively analyzed: 134 patients with metabolic syndrome and colorectal adenoma were compared against a group of 108 patients with colorectal adenoma without metabolic syndrome to assess the prevalence of cancer.",patients,patients,0
+"Another 1,500 patients undergoing screening colonoscopy were prospectively analyzed: 134 patients with metabolic syndrome and colorectal adenoma were compared against a group of 108 patients with colorectal adenoma without metabolic syndrome to assess the prevalence of cancer.",researchers,patients,0
+"Another 1,500 patients undergoing screening colonoscopy were prospectively analyzed: 134 patients with metabolic syndrome and colorectal adenoma were compared against a group of 108 patients with colorectal adenoma without metabolic syndrome to assess the prevalence of cancer.",researchers,colonoscopy,0
+"Another 1,500 patients undergoing screening colonoscopy were prospectively analyzed: 134 patients with metabolic syndrome and colorectal adenoma were compared against a group of 108 patients with colorectal adenoma without metabolic syndrome to assess the prevalence of cancer.",researchers,patients,0
+"Another 1,500 patients undergoing screening colonoscopy were prospectively analyzed: 134 patients with metabolic syndrome and colorectal adenoma were compared against a group of 108 patients with colorectal adenoma without metabolic syndrome to assess the prevalence of cancer.",researchers,colonoscopy,0
+"Another 1,500 patients undergoing screening colonoscopy were prospectively analyzed: 134 patients with metabolic syndrome and colorectal adenoma were compared against a group of 108 patients with colorectal adenoma without metabolic syndrome to assess the prevalence of cancer.",study,patients,0
+"Another 1,500 patients undergoing screening colonoscopy were prospectively analyzed: 134 patients with metabolic syndrome and colorectal adenoma were compared against a group of 108 patients with colorectal adenoma without metabolic syndrome to assess the prevalence of cancer.",study,colonoscopy,0
+Ninety patients with metabolic syndrome were prospectively compared against a matched population without the syndrome to assess the prevalence of colorectal adenoma.,metabolic syndrome,control population,0
+Ninety patients with metabolic syndrome were prospectively compared against a matched population without the syndrome to assess the prevalence of colorectal adenoma.,metabolic syndrome,matched,0
+Ninety patients with metabolic syndrome were prospectively compared against a matched population without the syndrome to assess the prevalence of colorectal adenoma.,patients,control population,0
+Ninety patients with metabolic syndrome were prospectively compared against a matched population without the syndrome to assess the prevalence of colorectal adenoma.,patients,matched,0
+Ninety patients with metabolic syndrome were prospectively compared against a matched population without the syndrome to assess the prevalence of colorectal adenoma.,ninety,control population,0
+Ninety patients with metabolic syndrome were prospectively compared against a matched population without the syndrome to assess the prevalence of colorectal adenoma.,ninety,matched,0
+The aim of our study was to assess the risk of colorectal cancer and adenoma in an adult Italian population with metabolic syndrome.,investigators,colorectal cancer,0
+The aim of our study was to assess the risk of colorectal cancer and adenoma in an adult Italian population with metabolic syndrome.,investigators,adenoma,0
+The aim of our study was to assess the risk of colorectal cancer and adenoma in an adult Italian population with metabolic syndrome.,investigators,adenoma,0
+The aim of our study was to assess the risk of colorectal cancer and adenoma in an adult Italian population with metabolic syndrome.,investigators,adult,0
+The aim of our study was to assess the risk of colorectal cancer and adenoma in an adult Italian population with metabolic syndrome.,investigators,population,0
+The aim of our study was to assess the risk of colorectal cancer and adenoma in an adult Italian population with metabolic syndrome.,investigators,metabolic,0
+The aim of our study was to assess the risk of colorectal cancer and adenoma in an adult Italian population with metabolic syndrome.,investigators,colorectal cancer,0
+The aim of our study was to assess the risk of colorectal cancer and adenoma in an adult Italian population with metabolic syndrome.,investigators,adult,0
+The aim of our study was to assess the risk of colorectal cancer and adenoma in an adult Italian population with metabolic syndrome.,investigators,population,0
+The aim of our study was to assess the risk of colorectal cancer and adenoma in an adult Italian population with metabolic syndrome.,investigators,metabolic,0
+"median survival was undetermined (greater than 50 months), 46 months, 38 months, and 34 months, respectively (p=0.04).",median,34 months,0
+"median survival was undetermined (greater than 50 months), 46 months, 38 months, and 34 months, respectively (p=0.04).",survival,34 months,0
+"median survival was undetermined (greater than 50 months), 46 months, 38 months, and 34 months, respectively (p=0.04).",median,>50 months,0
+"median survival was undetermined (greater than 50 months), 46 months, 38 months, and 34 months, respectively (p=0.04).",survival,>50 months,0
+"median survival was undetermined (greater than 50 months), 46 months, 38 months, and 34 months, respectively (p=0.04).",median,46 months,0
+"median survival was undetermined (greater than 50 months), 46 months, 38 months, and 34 months, respectively (p=0.04).",survival,46 months,0
+"median survival was undetermined (greater than 50 months), 46 months, 38 months, and 34 months, respectively (p=0.04).",median,38 months,0
+"median survival was undetermined (greater than 50 months), 46 months, 38 months, and 34 months, respectively (p=0.04).",survival,38 months,0
+METHODS: We performed a review of patients undergoing SCS for recurrent epithelial ovarian or peritoneal cancer between 1997 and 2012.,investigators,cytoreductive surgery,0
+METHODS: We performed a review of patients undergoing SCS for recurrent epithelial ovarian or peritoneal cancer between 1997 and 2012.,investigators,secondary,0
+METHODS: We performed a review of patients undergoing SCS for recurrent epithelial ovarian or peritoneal cancer between 1997 and 2012.,investigators,patients,0
+METHODS: We performed a review of patients undergoing SCS for recurrent epithelial ovarian or peritoneal cancer between 1997 and 2012.,investigators,cytoreductive surgery,0
+METHODS: We performed a review of patients undergoing SCS for recurrent epithelial ovarian or peritoneal cancer between 1997 and 2012.,investigators,secondary,0
+METHODS: We performed a review of patients undergoing SCS for recurrent epithelial ovarian or peritoneal cancer between 1997 and 2012.,investigators,patients,0
+"Overall, 90 patients underwent optimal resection and BMI did not correlate with ability to perform optimal SCS (p=0.25).",body mass index,cytoreductive surgery,0
+"Overall, 90 patients underwent optimal resection and BMI did not correlate with ability to perform optimal SCS (p=0.25).",body mass index,perform,0
+"Overall, 90 patients underwent optimal resection and BMI did not correlate with ability to perform optimal SCS (p=0.25).",body mass index,optimal,0
+"Overall, 90 patients underwent optimal resection and BMI did not correlate with ability to perform optimal SCS (p=0.25).",body mass index,secondary,0
+"Overall, 90 patients underwent optimal resection and BMI did not correlate with ability to perform optimal SCS (p=0.25).",body mass index,ability,0
+"Overall, 90 patients underwent optimal resection and BMI did not correlate with ability to perform optimal SCS (p=0.25).",patients,optimal,0
+"Overall, 90 patients underwent optimal resection and BMI did not correlate with ability to perform optimal SCS (p=0.25).",patients,resection,0
+"RESULTS: We identified 104 patients; 2 were underweight, 46 were of ideal body weight, 32 were overweight, and 24 were obese.",investigators,body mass index,0
+"RESULTS: We identified 104 patients; 2 were underweight, 46 were of ideal body weight, 32 were overweight, and 24 were obese.",investigators,obese,0
+"RESULTS: We identified 104 patients; 2 were underweight, 46 were of ideal body weight, 32 were overweight, and 24 were obese.",investigators,body mass index,0
+"RESULTS: We identified 104 patients; 2 were underweight, 46 were of ideal body weight, 32 were overweight, and 24 were obese.",investigators,underweight,0
+"RESULTS: We identified 104 patients; 2 were underweight, 46 were of ideal body weight, 32 were overweight, and 24 were obese.",investigators,patients,0
+"RESULTS: We identified 104 patients; 2 were underweight, 46 were of ideal body weight, 32 were overweight, and 24 were obese.",investigators,body mass index,0
+"RESULTS: We identified 104 patients; 2 were underweight, 46 were of ideal body weight, 32 were overweight, and 24 were obese.",investigators,overweight,0
+"RESULTS: We identified 104 patients; 2 were underweight, 46 were of ideal body weight, 32 were overweight, and 24 were obese.",investigators,patients,0
+"RESULTS: We identified 104 patients; 2 were underweight, 46 were of ideal body weight, 32 were overweight, and 24 were obese.",investigators,patients,0
+"RESULTS: We identified 104 patients; 2 were underweight, 46 were of ideal body weight, 32 were overweight, and 24 were obese.",investigators,ideal body mass,0
+"RESULTS: We identified 104 patients; 2 were underweight, 46 were of ideal body weight, 32 were overweight, and 24 were obese.",investigators,body mass index,0
+"RESULTS: We identified 104 patients; 2 were underweight, 46 were of ideal body weight, 32 were overweight, and 24 were obese.",investigators,patients,0
+"In 35 patients undergoing resection for colorectal cancer metastases, we measured: CT-derived subcutaneous and visceral adipose tissue volumes, Homeostasis Model Assessment of Insulin Resistance (HOMA-IR), fasting serum adiponectin, leptin and fetuin-A.",investigators,fasting,0
+"In 35 patients undergoing resection for colorectal cancer metastases, we measured: CT-derived subcutaneous and visceral adipose tissue volumes, Homeostasis Model Assessment of Insulin Resistance (HOMA-IR), fasting serum adiponectin, leptin and fetuin-A.",investigators,serum,0
+"In 35 patients undergoing resection for colorectal cancer metastases, we measured: CT-derived subcutaneous and visceral adipose tissue volumes, Homeostasis Model Assessment of Insulin Resistance (HOMA-IR), fasting serum adiponectin, leptin and fetuin-A.",investigators,adiponectin,0
+"In 35 patients undergoing resection for colorectal cancer metastases, we measured: CT-derived subcutaneous and visceral adipose tissue volumes, Homeostasis Model Assessment of Insulin Resistance (HOMA-IR), fasting serum adiponectin, leptin and fetuin-A.",investigators,homeostasis model assessment,0
+"In 35 patients undergoing resection for colorectal cancer metastases, we measured: CT-derived subcutaneous and visceral adipose tissue volumes, Homeostasis Model Assessment of Insulin Resistance (HOMA-IR), fasting serum adiponectin, leptin and fetuin-A.",investigators,insulin resistance,0
+"In 35 patients undergoing resection for colorectal cancer metastases, we measured: CT-derived subcutaneous and visceral adipose tissue volumes, Homeostasis Model Assessment of Insulin Resistance (HOMA-IR), fasting serum adiponectin, leptin and fetuin-A.",patients,colorectal cancer,0
+"In 35 patients undergoing resection for colorectal cancer metastases, we measured: CT-derived subcutaneous and visceral adipose tissue volumes, Homeostasis Model Assessment of Insulin Resistance (HOMA-IR), fasting serum adiponectin, leptin and fetuin-A.",patients,resection,0
+"In 35 patients undergoing resection for colorectal cancer metastases, we measured: CT-derived subcutaneous and visceral adipose tissue volumes, Homeostasis Model Assessment of Insulin Resistance (HOMA-IR), fasting serum adiponectin, leptin and fetuin-A.",investigators,visceral adipose tissue,0
+"In 35 patients undergoing resection for colorectal cancer metastases, we measured: CT-derived subcutaneous and visceral adipose tissue volumes, Homeostasis Model Assessment of Insulin Resistance (HOMA-IR), fasting serum adiponectin, leptin and fetuin-A.",investigators,volumes,0
+"In 35 patients undergoing resection for colorectal cancer metastases, we measured: CT-derived subcutaneous and visceral adipose tissue volumes, Homeostasis Model Assessment of Insulin Resistance (HOMA-IR), fasting serum adiponectin, leptin and fetuin-A.",investigators,subcutaneous adipose tissue,0
+"In 35 patients undergoing resection for colorectal cancer metastases, we measured: CT-derived subcutaneous and visceral adipose tissue volumes, Homeostasis Model Assessment of Insulin Resistance (HOMA-IR), fasting serum adiponectin, leptin and fetuin-A.",investigators,volumes,0
+"In 35 patients undergoing resection for colorectal cancer metastases, we measured: CT-derived subcutaneous and visceral adipose tissue volumes, Homeostasis Model Assessment of Insulin Resistance (HOMA-IR), fasting serum adiponectin, leptin and fetuin-A.",investigators,fetuin-A,0
+"In 35 patients undergoing resection for colorectal cancer metastases, we measured: CT-derived subcutaneous and visceral adipose tissue volumes, Homeostasis Model Assessment of Insulin Resistance (HOMA-IR), fasting serum adiponectin, leptin and fetuin-A.",investigators,leptin,0
+this could be adjusted for by a correction factor (CF: 0.7816).,correction,magnetic resonance,0
+this could be adjusted for by a correction factor (CF: 0.7816).,correction,fat,0
+this could be adjusted for by a correction factor (CF: 0.7816).,factor,magnetic resonance,0
+this could be adjusted for by a correction factor (CF: 0.7816).,factor,fat,0
+We estimated relative IHF using CS-MR and developed prediction models for IHF using a factor-clustered approach.,investigators,relative,0
+We estimated relative IHF using CS-MR and developed prediction models for IHF using a factor-clustered approach.,investigators,fat,0
+We estimated relative IHF using CS-MR and developed prediction models for IHF using a factor-clustered approach.,investigators,prediction,0
+We estimated relative IHF using CS-MR and developed prediction models for IHF using a factor-clustered approach.,investigators,models,0
+We estimated relative IHF using CS-MR and developed prediction models for IHF using a factor-clustered approach.,investigators,fat,0
+"The latter effect should impede cancer induction (as is seen in animal studies with soy protein), lessen neutrophil-mediated inflammatory damage, and slow growth and maturation in children.",effect,cancer induction,0
+"The latter effect should impede cancer induction (as is seen in animal studies with soy protein), lessen neutrophil-mediated inflammatory damage, and slow growth and maturation in children.",effect,inflammatory,0
+"The latter effect should impede cancer induction (as is seen in animal studies with soy protein), lessen neutrophil-mediated inflammatory damage, and slow growth and maturation in children.",effect,damage,0
+"The latter effect should impede cancer induction (as is seen in animal studies with soy protein), lessen neutrophil-mediated inflammatory damage, and slow growth and maturation in children.",effect,maturation,0
+"The latter effect should impede cancer induction (as is seen in animal studies with soy protein), lessen neutrophil-mediated inflammatory damage, and slow growth and maturation in children.",effect,children,0
+"The latter effect should impede cancer induction (as is seen in animal studies with soy protein), lessen neutrophil-mediated inflammatory damage, and slow growth and maturation in children.",effect,growth,0
+"The latter effect should impede cancer induction (as is seen in animal studies with soy protein), lessen neutrophil-mediated inflammatory damage, and slow growth and maturation in children.",effect,children,0
+In the whole patient group no relation between metastatic sites and BMI groups was noticed.,metastatic,body mass index,0
+In the whole patient group no relation between metastatic sites and BMI groups was noticed.,metastatic,groups,0
+In the whole patient group no relation between metastatic sites and BMI groups was noticed.,sites,body mass index,0
+In the whole patient group no relation between metastatic sites and BMI groups was noticed.,sites,groups,0
+In the whole patient group no relation between metastatic sites and BMI groups was noticed.,investigators,body mass index,0
+In the whole patient group no relation between metastatic sites and BMI groups was noticed.,investigators,metastatic,0
+In the whole patient group no relation between metastatic sites and BMI groups was noticed.,investigators,sites,0
+In the whole patient group no relation between metastatic sites and BMI groups was noticed.,investigators,groups,0
+METHODS: This retrospective cross-sectional study analyzed the data of 2731 early stage breast cancer patients.,cross sectional study,breast cancer,0
+METHODS: This retrospective cross-sectional study analyzed the data of 2731 early stage breast cancer patients.,cross sectional study,data,0
+METHODS: This retrospective cross-sectional study analyzed the data of 2731 early stage breast cancer patients.,cross sectional study,patients,0
+"Of 2455 total patients, 853 (34.6%) were classified as having normal weight, 898 (36.2%) were overweighted and 704 (29.2%) were obese.",patients,normal weight,0
+"Of 2455 total patients, 853 (34.6%) were classified as having normal weight, 898 (36.2%) were overweighted and 704 (29.2%) were obese.",patients,obese,0
+"Of 2455 total patients, 853 (34.6%) were classified as having normal weight, 898 (36.2%) were overweighted and 704 (29.2%) were obese.",patients,overweight,0
+"Patients were classified into three BMI categories: normal body weight, overweight, and obese.",patients,normal body weight,0
+"Patients were classified into three BMI categories: normal body weight, overweight, and obese.",patients,body mass index,0
+"Patients were classified into three BMI categories: normal body weight, overweight, and obese.",patients,categories,0
+"Patients were classified into three BMI categories: normal body weight, overweight, and obese.",patients,obese,0
+"Patients were classified into three BMI categories: normal body weight, overweight, and obese.",patients,overweight,0
+Patients who had metastatic disease at the time of diagnosis and with unknown BMI values were excluded from study (N=276).,body mass index,patients,0
+Patients who had metastatic disease at the time of diagnosis and with unknown BMI values were excluded from study (N=276).,body mass index,study,0
+Patients who had metastatic disease at the time of diagnosis and with unknown BMI values were excluded from study (N=276).,patients,patients,0
+Patients who had metastatic disease at the time of diagnosis and with unknown BMI values were excluded from study (N=276).,patients,study,0
+Patients who had metastatic disease at the time of diagnosis and with unknown BMI values were excluded from study (N=276).,unknown,patients,0
+Patients who had metastatic disease at the time of diagnosis and with unknown BMI values were excluded from study (N=276).,unknown,study,0
+Patients who had metastatic disease at the time of diagnosis and with unknown BMI values were excluded from study (N=276).,patients,patients,0
